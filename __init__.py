@@ -1,9 +1,10 @@
 #-*-encoding:utf8
-from tkinter import *
-from tkinter import filedialog
-#create header
-from tkinter.filedialog import askopenfilename
+from Tkinter import *
+#from Tkinter import filedialog
+#from Tkinter.filedialog import askopenfilename
 import logging
+#create header
+
 
 root=Tk()
 root.title("Text Editor")
